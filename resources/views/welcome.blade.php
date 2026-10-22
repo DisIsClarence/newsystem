@@ -10,7 +10,7 @@
 <body>
     <div class="parent">
         <h1>SANA AMO NA</h1>
-        <h2>hahahah</h2>
+        <h2>hehehe</h2>
         <p>HAHAHHA</p>
         
     </div>
