@@ -11,7 +11,7 @@
     <div class="parent">
         <h1>SANA AMO NA</h1>
         <h2>hehehe</h2>
-        <p>HAHAHHA</p>
+        <p>HAHhehehefajbdajk</p><h2>hehehe</h2>
         
     </div>
 </body>
